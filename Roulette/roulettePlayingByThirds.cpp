@@ -5,6 +5,15 @@
 #include <iostream>
 using namespace std;
 
+/*
+ **************************************************************************************************
+ *  Nathan Redmond
+ *  Last Modified: 3 December 2019
+ *
+ *  Game is partially working. I only play beting on the thirds. Firsts 12, second 12, third 12.
+ **************************************************************************************************
+ */
+
 void printMenu(){
 cout << "********************************" << endl;
 cout << "*******                 ********" << endl;
